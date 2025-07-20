@@ -1,6 +1,6 @@
 # Java Quiz Game
 
-This is a simple console-based Quiz Game built in Java for internship hands-on learning. The game presents multiple-choice questions, accepts user input, and displays the final score.
+This is a simple console-based Quiz Game built in Java. The game presents multiple-choice questions, accepts user input, and displays the final score.
 
 ## Features
 - Multiple-choice questions
